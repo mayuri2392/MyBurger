@@ -81,7 +81,7 @@ class BurgerBuilder extends Component {
     }
 
     purchaseContinueHandler = () => {
-        alert('You Continue!');
+        alert('Continue!');
     }
 
     render() {
